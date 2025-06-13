@@ -1,0 +1,16 @@
+# Ignore environment variable files
+.env
+
+#Byte-compile / optimized / DLL files
+_pycache_/
+*.py[cod]
+*Spy.class
+
+# Distribution / Packaging
+build/
+dist/
+*.egg-info/
+
+# os files
+.DS_Store
+Thumbs.db
