@@ -3,6 +3,7 @@
         "dotenv",
         "interrows",
         "kirplopus",
+        "Kobotoolbox",
         "lillies",
         "numpy",
         "openpyxl",
